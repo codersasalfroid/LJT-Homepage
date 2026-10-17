@@ -34,16 +34,16 @@ My research focuses on **natural language processing** and **machine learning**.
 
 ## Publications
 
-**\* denotes first author.**
+Papers for which I am the first author are marked *(first author)*.
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
-   Junteng Liu\*, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *arXiv*, 2025.
+   Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *arXiv*, 2025. *(first author)*
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding**  
-   Junteng Liu\*, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv*, 2025.
+   Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv*, 2025. *(first author)*
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs**  
-   Junteng Liu\*, Shiqi Chen, Yu Cheng, Junxian He. In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2024.
+   Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2024. *(first author)*
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
    Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. In *Proceedings of the 41st International Conference on Machine Learning (ICML)*, 2024.
